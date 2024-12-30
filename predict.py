@@ -39,4 +39,4 @@ def run():
 
     # Footer section
     st.markdown("---")
-    st.markdown("Model ini menggunakan Logistic Regression dengan data dari dataset Diabetes. \nHarap diingat bahwa hasil prediksi ini hanya untuk tujuan informasi dan tidak menggantikan diagnosa medis profesional.")
+    st.markdown("Model ini menggunakan Logistic Regression dengan data dari dataset Diabetes.")
