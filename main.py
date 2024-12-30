@@ -16,13 +16,13 @@ def main():
         col1, col2, col3, col4 = st.columns(4)
 
         with col1:
-            st.image("assets\pikhwan.jpg", caption="Ikhwan Amiruddin\n1202223229")
+            st.image("assets/pikhwan.jpg", caption="Ikhwan Amiruddin\n1202223229")
         with col2:
-            st.image("assets\prafif.jpg", caption="Rafif Dzaky Daniswara\n1202223211")
+            st.image("assets/prafif.jpg", caption="Rafif Dzaky Daniswara\n1202223211")
         with col3:
-            st.image("assets\palfonsus.jpg", caption="Alfonsus Raditya D Y\n1202223363")
+            st.image("assets/palfonsus.jpg", caption="Alfonsus Raditya D Y\n1202223363")
         with col4:
-            st.image("assets\ppanji.jpg", caption="Pangerso Panji Birowo\n1202223087")
+            st.image("assets/ppanji.jpg", caption="Pangerso Panji Birowo\n1202223087")
 
     # Page for prediction
     elif page == "Prediksi":
