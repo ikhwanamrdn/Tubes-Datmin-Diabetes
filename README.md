@@ -23,7 +23,7 @@ Buka link: [https://streamlit.io/cloud](https://streamlit.io/cloud)
 
 Klik **"Get started"** atau sebelah kanan atas bagian pertanyaan _"Deploying? Try:"_ klik yang Free lalu login dengan akun GitHub kamu.
 
-### 3. **Buat Aplikasi Baru**
+### 3. **Buat App Baru**
 
 - Klik tombol **"Create App"**
 - Pilih deploy dengan github
